@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 class Bank {
     int interest = 0;

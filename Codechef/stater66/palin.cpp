@@ -16,7 +16,7 @@ int main(){
         int64_t j=n-1,i=0;
         if(n==1){
             cout<<0<<endl;
-            break;
+            continue;
         }
         else{
         while(j>i){

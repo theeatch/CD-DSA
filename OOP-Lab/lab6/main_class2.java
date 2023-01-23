@@ -1,4 +1,4 @@
-import java.net.SocketPermission;
+
 import java.util.Scanner;
 
 class Student {

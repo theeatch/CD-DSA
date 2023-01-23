@@ -91,5 +91,6 @@ public class main_class {
         c1.withdraw(value2);
         c1.Service();
         c1.display();
+        sc.close();
     }
 }
